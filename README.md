@@ -50,7 +50,6 @@ All OF YOUB INSTALL PYTHON 3.11
                  ▼           ▼           ▼
               ALERTS      DATABASE    DASHBOARD
 
-
 Kedar - Fall Module
 Yukta - Proximity Module
 Shreeyash - PPE Module
