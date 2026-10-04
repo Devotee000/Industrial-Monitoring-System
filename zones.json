@@ -1,0 +1,30 @@
+{
+  "camera_id": "cam_01",
+  "frame_size": [720, 1280],
+  "zones": [
+    {
+      "id": "zone_machine_A",
+      "name": "Machine A - Restricted",
+      "severity": "high",
+      "polygon": [
+        [200, 300],
+        [500, 300],
+        [500, 600],
+        [200, 600]
+      ],
+      "allowed_roles": []
+    },
+    {
+      "id": "zone_electrical",
+      "name": "Electrical Room",
+      "severity": "critical",
+      "polygon": [
+        [800, 100],
+        [1100, 100],
+        [1150, 400],
+        [750, 400]
+      ],
+      "allowed_roles": []
+    }
+  ]
+}
